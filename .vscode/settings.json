@@ -10,4 +10,4 @@
 "terminal.integrated.env.windows": {    
 "PATH": "${env:PATH};C:\\jdk-17.0.0.1\\bin"  
 }  
-}
+}   
