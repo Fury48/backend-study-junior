@@ -3,9 +3,16 @@
   "configurations": [
     {
       "type": "java",
-      "name": "BackendApplication",
+      "name": "ContainerDiDemo",
       "request": "launch",
-      "mainClass": "com.gdgku.study.backend.BackendApplication",
+      "mainClass": "com.gdgku.study.di.container.ContainerDiDemo",
+      "projectName": "backend-backend-study-junior"
+    },
+    {
+      "type": "java",
+      "name": "ManualDiDemo",
+      "request": "launch",
+      "mainClass": "com.gdgku.study.di.manual.ManualDiDemo",
       "projectName": "backend-backend-study-junior"
     },
     {
